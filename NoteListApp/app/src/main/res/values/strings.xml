@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Note List</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="completed">Completed</string>
+    <string name="reset">Reset</string>
+
+
+</resources>
